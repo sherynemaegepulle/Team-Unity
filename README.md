@@ -5,9 +5,9 @@ This project develops an automated system for Tongs and Jerry Restaurant that in
 Team unity
 
 ## Members
-- Sheryne Mae Gepulle  
+- Alysa Jane Galicia   
 - Nadine Christine Garais  
-- Alysa Jane Galicia  
+- Sheryne Mae Gepulle  
 
 ## Date
 September 09, 2025
