@@ -1,13 +1,14 @@
-# Development 
+# DEVELOPMENT OF AUTOMATED SYSTEM INTEGRATING MENU AND INVENTORY CONTROL FOR TONGS AND JERRY RESTAURANT
+
 This project develops an automated system for Tongs and Jerry Restaurant that integrates menu management and inventory control to provide real-time food availability, streamline operations, and improve customer service.
 
-## Group Name
+# Group Name
 Team unity
 
-## Members
+# Members
 - Alysa Jane Galicia   
 - Nadine Christine Garais  
 - Sheryne Mae Gepulle  
 
-## Date
+# Date
 September 09, 2025
